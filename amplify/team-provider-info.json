@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gqltransform-dev-154558-authRole",
+            "UnauthRoleArn": "arn:aws:iam::598463965071:role/amplify-gqltransform-dev-154558-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::598463965071:role/amplify-gqltransform-dev-154558-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-gqltransform-dev-154558-deployment",
+            "UnauthRoleName": "amplify-gqltransform-dev-154558-unauthRole",
+            "StackName": "amplify-gqltransform-dev-154558",
+            "StackId": "arn:aws:cloudformation:us-west-2:598463965071:stack/amplify-gqltransform-dev-154558/446790c0-d6a4-11ea-95be-0a8077ae26ee",
+            "AmplifyAppId": "d1huhzo0vdih0h"
+        },
+        "categories": {
+            "auth": {
+                "gqltransformfe027098": {}
+            }
+        }
+    }
+}
